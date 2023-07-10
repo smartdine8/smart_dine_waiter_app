@@ -1,6 +1,6 @@
 # smartdine_waiter
 
-A new Flutter project.
+Flutter Mobile application for waiters to take and completed order in restaurant.
 
 ## Getting Started
 
